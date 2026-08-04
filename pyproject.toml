@@ -1,0 +1,7 @@
+[project]
+name = "agentic-and-gen-ai-with-cloud"
+version = "0.1.0"
+description = "This course is designed for AI enthusiasts and professionals eager to dive into the world of AgenticAI and Natural Language Processing (NLP). You will gain hands-on experience in buildingintelligent systems, mastering NLP techniques, developing agentic decision-making frameworks,and implementing state-of-the-art GenAI solutions. By the end, you'll be proficient in creating,deploying, and monitoring advanced NLP and agentic applications."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["langchain"]
