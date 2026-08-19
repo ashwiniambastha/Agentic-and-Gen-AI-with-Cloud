@@ -6,6 +6,9 @@ langchain-community
 bs4
 faiss-cpu
 pypdf
+sentence-transformers
+langchain-google-genai
+
 arxiv
 pymupdf
 wikipedia
