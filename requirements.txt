@@ -12,3 +12,5 @@ wikipedia
 lxml
 langchain_huggingface
 langchain-groq
+langchain-google-genai
+langchain-classic
